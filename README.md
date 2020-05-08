@@ -1,0 +1,2 @@
+# bilgiYarismasi
+ Bilgi Yarışması
