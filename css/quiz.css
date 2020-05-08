@@ -1,0 +1,102 @@
+body {
+    background-image: url("../files/main.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+header {
+    background-color: mediumseagreen;
+    width: 100%;
+    height: 80px;
+    position: absolute;
+    top: 10px;
+    text-align: center;
+    font-size: 36px;
+}
+#seconds-count{
+    background-color: #007fff;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+}
+
+#new-question{
+    position: fixed;
+    top: 30px;
+    right: 100px;
+}
+
+.stats {
+    position: fixed;
+    top: 70px;
+    right: 10px;
+    height: 80px;
+    width: 200px;
+    font-size: 20px;
+}
+
+.spacer{
+    height: 80px;
+    width: 100%;
+}
+
+#question {
+    position: fixed;
+    font-size: 26px;
+    height: 100px;
+    width: 400px;
+    padding: 10px;
+    background-color: bisque;
+    border: 5px solid black;
+    top: 100px;
+    bottom: 500px;
+}
+
+.btn {
+    padding: 0px;
+    font-size: 22px;
+    background-color: bisque;
+    border: 5px solid green;
+    margin: 0px;
+}
+#invis{
+    position: fixed;
+    top:300px;
+    margin:0px;
+    padding: 0px;
+    width: 40%;
+}
+
+#message {
+    position: fixed;
+    background-color: bisque;
+    height: 40px;
+    width: 280px;
+    padding: 5px;
+    margin: 5px;
+    border: 5px solid green;
+    font-size: 30px;
+    top:400px;
+}
+#picture {
+    position: fixed;
+    width: 2px;
+    height: 2px;
+    top:100px;
+    left: 800px;
+}
+
+#video{
+    position: fixed;
+    width: 2px;
+    height: 2px;
+    top:100px;
+    left: 900px;
+}
+
+
+#Reveal{
+    position: fixed;
+    top:500px;
+ }
